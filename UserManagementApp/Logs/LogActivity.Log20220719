@@ -1,0 +1,841 @@
+*INFO       /  2022-07-19 00:05:31,613        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:05:31,950        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:11:37,670        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:11:37,994        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:12:37,634        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:12:37,897        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:14:49,623        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:14:49,933        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:14:54,423        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:14:54,465        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:14:58,649        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:14:58,697        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:15:01,472        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:15:01,504        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:15:05,585        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:15:05,623        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:15:08,914        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:15:08,961        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:15:18,124        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:15:18,141        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:22:25,661        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:22:25,980        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:22:59,210        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:22:59,230        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:02,769        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:02,787        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:06,210        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:06,237        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:17,589        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:17,618        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:31,908        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:31,933        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:35,892        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:35,913        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:36,113        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:36,148        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:40,956        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:40,987        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:41,182        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:41,218        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:46,170        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:46,194        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:46,374        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:23:46,398        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:25:02,631        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:25:02,851        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:25:15,235        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:25:15,270        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:25:20,360        / UserManagementApp.Helper.DatabaseConnection        /  Delete Request Started for http://localhost:52274/UserService.svc/delete/5000e44b-3ea5-43b8-82e7-ffd6c3785d8c. 
+*INFO       /  2022-07-19 00:25:20,396        / UserManagementApp.Helper.DatabaseConnection        /  Delete Request Completed for http://localhost:52274/UserService.svc/delete/5000e44b-3ea5-43b8-82e7-ffd6c3785d8c. 
+*INFO       /  2022-07-19 00:25:20,396        / UserManagementApp.BussinessLayer.DeleteService     /  User Deleted for Id : 5000e44b-3ea5-43b8-82e7-ffd6c3785d8c. 
+*INFO       /  2022-07-19 00:25:20,447        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:25:20,481        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:25:25,160        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:25:25,184        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:26:07,123        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:26:07,159        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:26:14,076        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:26:14,110        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:26:19,455        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:26:19,494        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:26:25,286        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 00:26:25,314        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:02:20,586        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:02:20,855        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:02:26,388        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:02:26,409        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:02:29,230        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:02:29,261        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:02:33,762        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:02:33,794        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:02:36,793        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:02:36,840        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:02:41,214        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:02:41,262        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:02:46,928        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:02:46,975        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:02:57,588        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:02:57,621        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:09:18,393        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:09:18,648        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:09:21,784        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:09:21,810        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:09:23,704        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:09:23,744        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:09:27,916        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:09:27,955        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:09:53,121        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:09:53,147        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:10:09,230        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:10:09,269        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:11:48,328        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:11:48,351        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:13:28,818        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:13:28,871        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:13:38,023        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:13:38,051        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:14:51,652        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:14:51,688        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:15:07,332        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:15:07,367        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:16:05,841        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:16:05,867        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:16:28,879        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:16:28,911        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:25:31,978        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:25:32,311        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:25:45,473        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:25:45,508        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:25:56,847        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:25:56,872        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:26:19,981        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:26:20,019        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:27:18,009        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:27:19,181        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:27:20,336        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:27:20,337        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:27:22,599        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:27:24,473        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:28:05,251        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:28:05,284        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:34:02,596        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:34:02,695        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:34:14,733        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:34:14,752        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:34:56,286        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:34:56,309        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*ERROR      /  2022-07-19 01:37:50,529        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : saad2161@gmail.com. 
+*INFO       /  2022-07-19 01:37:59,554        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:37:59,598        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:38:04,894        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 01:38:04,928        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 01:38:25,503        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-19 01:38:25,548        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-19 01:38:25,548        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : ajaysingh@gmail.com With Response Succesfully Update. 
+*INFO       /  2022-07-19 01:38:26,822        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:38:26,845        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:38:34,543        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 01:38:34,561        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 01:38:42,698        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-19 01:38:42,748        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-19 01:38:42,748        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : ajaysingh@gmail.com With Response Succesfully Update. 
+*INFO       /  2022-07-19 01:38:43,660        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:38:43,683        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:40:49,584        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:40:50,010        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:40:59,829        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 01:40:59,855        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*ERROR      /  2022-07-19 01:41:12,432        / UserManagementApp.BussinessLayer.UpdateService     /  Improper Credentials for Email : ajaysingh@gmail.com. 
+*INFO       /  2022-07-19 01:41:20,834        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:41:20,855        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:47:54,520        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:47:54,862        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*ERROR      /  2022-07-19 01:48:50,079        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : yashraj2161@gmail.com. 
+*INFO       /  2022-07-19 01:49:09,064        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:49:09,090        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:49:14,168        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 01:49:14,199        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*ERROR      /  2022-07-19 01:49:23,865        / UserManagementApp.BussinessLayer.UpdateService     /  Improper Credentials for Email : ajaysingh@gmail.com. 
+*INFO       /  2022-07-19 01:49:30,377        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:49:30,400        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:54:42,421        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:54:42,701        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:54:51,694        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:54:51,723        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:55:15,165        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:55:15,206        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:55:41,113        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:55:41,148        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:55:56,910        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 01:55:56,931        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:22:01,994        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find. 
+*INFO       /  2022-07-19 02:22:04,692        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Failed for http://localhost:52274/UserService.svc/find. 
+*ERROR      /  2022-07-19 02:22:07,799        / UserManagementApp.ExceptionHandler.CustomExceptionHandler /  Catching Error of Unknow Error. 
+*INFO       /  2022-07-19 02:22:29,260        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:22:29,556        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:22:31,411        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 02:22:31,442        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 02:23:04,599        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-19 02:23:04,637        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-19 02:23:04,637        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : ajaysingh@gmail.com With Response Succesfully Update. 
+*INFO       /  2022-07-19 02:23:04,725        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:23:04,751        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:26:13,330        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:26:13,372        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:26:33,619        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 02:26:33,657        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 02:26:44,645        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:26:44,680        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:43:57,035        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:43:57,255        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:47:57,856        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 02:47:57,923        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 02:47:57,924        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : yashsinghgupta2161@gmail.com. 
+*ERROR      /  2022-07-19 02:48:39,950        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : yashsinghgupta2161gmail.com. 
+*INFO       /  2022-07-19 02:57:35,424        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:57:35,740        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:58:13,490        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 02:58:13,518        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 02:58:13,518        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : nephalsinghchauhan2161@gmail.com. 
+*INFO       /  2022-07-19 02:59:02,939        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:59:03,155        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:59:38,473        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 02:59:38,500        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 02:59:38,502        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : nephalsinghchauhan2161@gmail.com. 
+*ERROR      /  2022-07-19 02:59:50,152        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : nephalsinghchauhan2161@gmail.com. 
+*INFO       /  2022-07-19 02:59:57,822        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:59:57,844        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 02:59:59,791        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 02:59:59,816        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 03:02:48,211        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 03:02:48,444        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 03:02:50,964        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 03:02:50,983        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*ERROR      /  2022-07-19 03:03:02,588        / UserManagementApp.BussinessLayer.UpdateService     /  Improper Credentials for Email : ajaysingh@gmail.com. 
+*INFO       /  2022-07-19 10:16:45,031        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:16:45,243        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:04,770        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:04,794        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:08,294        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:08,319        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:12,169        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:12,193        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:17,839        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:17,863        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:23,503        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:23,532        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:26,397        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:26,429        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:35,013        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:35,032        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:38,025        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:38,041        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:42,541        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:42,557        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:49,978        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:49,997        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:52,785        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:52,801        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:54,729        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:17:54,745        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:18:07,804        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:18:07,835        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:18:12,670        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:18:12,694        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:18:30,426        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:18:30,450        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:18:33,098        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 10:18:33,122        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 10:18:42,205        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:18:42,237        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:29:26,072        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:29:26,151        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*ERROR      /  2022-07-19 10:29:38,263        / UserManagementApp.BussinessLayer.AuthenticationService /  Improper Credentials for Email : . 
+*INFO       /  2022-07-19 10:44:45,416        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 10:44:45,472        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 10:44:45,472        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9072@gmail.com is P1U+io1OePjCp284gUiq+LpIwnLf1oVjZRTAv5o5vURSZHiLQf0hb3AulD5\/sAmBoffAuqTix8ErNJWo1TL1271Wfd1x1L+AiHTp9czkwoWWMQu2OpPZIY+iwn8cOmT\/w2T\/OEFnNGIWcqLl1d8WqQ==. 
+*INFO       /  2022-07-19 10:44:45,576        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 10:44:45,600        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*ERROR      /  2022-07-19 10:46:19,315        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:46:21,526        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:46:31,050        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:46:32,550        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:46:33,379        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:47:04,095        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:47:05,483        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:47:05,700        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:47:28,941        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:47:30,266        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:47:30,489        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:47:45,697        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:47:52,140        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:47:53,053        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:48:02,087        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:48:03,600        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:48:45,469        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:48:46,558        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:48:47,285        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:48:54,311        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@d.com. 
+*ERROR      /  2022-07-19 10:48:55,126        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@d.com. 
+*ERROR      /  2022-07-19 10:48:55,355        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@d.com. 
+*ERROR      /  2022-07-19 10:49:05,786        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*ERROR      /  2022-07-19 10:49:06,558        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : ok@.com. 
+*INFO       /  2022-07-19 10:49:11,882        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:49:11,938        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:49:11,938        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : ok@h.com. 
+*INFO       /  2022-07-19 10:49:33,785        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:49:33,829        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:49:33,829        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : ok@h.com. 
+*INFO       /  2022-07-19 10:51:45,593        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:51:45,608        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:51:45,608        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : jsagk@gmail.com. 
+*INFO       /  2022-07-19 10:51:50,516        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:51:50,540        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:51:50,540        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : jsagk@gmail.com. 
+*INFO       /  2022-07-19 10:53:37,316        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:53:37,316        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:53:37,316        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:53:37,340        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:53:37,340        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : jsagk@gmail.com. 
+*INFO       /  2022-07-19 10:53:41,655        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:53:41,655        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : jsagk@gmail.com. 
+*INFO       /  2022-07-19 10:53:42,574        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:53:42,574        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : jsagk@gmail.com. 
+*INFO       /  2022-07-19 10:53:46,166        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:53:46,181        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:53:46,181        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : jsagk@gmail.com. 
+*INFO       /  2022-07-19 10:55:18,148        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:55:18,195        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:56:08,859        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : jsagk@gmail.com. 
+*INFO       /  2022-07-19 10:56:15,457        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:56:15,523        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:59:08,634        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : jsagk@gmail.com. 
+*INFO       /  2022-07-19 10:59:13,522        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:59:13,553        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:59:26,855        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : jsagk@gmail.com. 
+*INFO       /  2022-07-19 10:59:35,714        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 10:59:35,746        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 11:01:52,562        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : jsagk@gmail.com. 
+*INFO       /  2022-07-19 11:02:21,631        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:02:29,863        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:04:30,800        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/c83874a3-aeb5-485c-97c3-225c2935da00. 
+*INFO       /  2022-07-19 11:04:34,219        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/c83874a3-aeb5-485c-97c3-225c2935da00. 
+*ERROR      /  2022-07-19 11:05:12,754        / UserManagementApp.BussinessLayer.UpdateService     /  Improper Credentials for Email : anubhutisingh#2162@gmail.com. 
+*INFO       /  2022-07-19 11:05:27,718        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-19 11:05:31,466        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-19 11:05:31,466        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : anubhutisingh#2162@gmail.com With Response Succesfully Update. 
+*INFO       /  2022-07-19 11:05:31,566        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:05:31,596        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:25:02,439        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:25:02,995        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:25:07,361        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:25:14,105        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:25:20,408        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:25:21,522        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:25:36,891        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:25:36,938        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:26:43,969        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:26:44,018        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:26:44,199        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:26:44,240        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:56:51,243        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:56:51,507        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:57:44,332        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 11:57:50,025        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 11:57:50,025        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : harsh3333@gmail.com. 
+*INFO       /  2022-07-19 11:59:45,311        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 11:59:45,681        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:00:16,485        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 12:00:19,871        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 12:00:19,871        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : harsh333@gmail.com. 
+*INFO       /  2022-07-19 12:05:44,627        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:05:44,868        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:11:10,818        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 12:12:01,863        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 12:12:01,864        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : parshantsingh2161@gmail.com. 
+*INFO       /  2022-07-19 12:12:51,201        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 12:17:09,843        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 12:17:27,414        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 12:17:27,414        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for parshantsingh2161@gmail.com is Succesfully Created. 
+*INFO       /  2022-07-19 12:17:28,457        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:17:28,512        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:19:20,541        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 12:19:55,524        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 12:20:05,161        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 12:20:05,161        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : yashsinghgupta2161@gmail.com. 
+*INFO       /  2022-07-19 12:20:28,900        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 12:20:33,851        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 12:20:33,852        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for ykkyash2161@gmail.com is Succesfully Created. 
+*INFO       /  2022-07-19 12:20:35,127        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:20:35,200        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:20:44,793        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:20:46,666        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:20:57,664        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:20:57,699        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:21:09,259        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:21:09,287        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:21:17,091        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:21:17,120        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:21:20,216        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:21:20,243        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:21:20,446        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:21:20,471        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:21:46,709        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:21:46,739        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:21:54,656        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:21:54,702        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:21:59,967        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:22:00,006        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:03,766        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:03,806        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:08,198        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:08,226        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:13,030        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:13,055        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:19,794        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:19,821        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:29,135        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:29,161        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:32,624        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:32,654        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:38,371        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:38,397        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:42,507        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:42,535        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:45,451        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:23:45,476        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:24:07,969        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:24:08,002        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:24:21,774        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:24:21,803        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:24:32,368        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:24:32,393        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:24:36,624        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 12:24:36,660        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 12:24:47,786        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-19 12:24:47,829        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-19 12:24:47,829        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : ajaysingh@gmail.com With Response Succesfully Update. 
+*INFO       /  2022-07-19 12:24:47,901        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:24:47,938        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:24:52,574        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:24:52,617        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:25:03,462        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:25:03,488        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:25:05,567        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:25:05,602        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:25:20,647        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:25:20,688        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:25:23,291        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:25:23,326        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:25:40,351        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:25:40,382        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:25:50,321        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:25:50,352        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:25:52,267        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:25:52,294        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:25:57,508        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:25:57,533        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:26:00,782        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:26:00,807        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:26:17,126        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:26:17,158        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:26:24,116        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:26:24,149        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:26:47,868        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:26:47,897        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*ERROR      /  2022-07-19 12:26:56,561        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : . 
+*ERROR      /  2022-07-19 12:28:06,069        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : . 
+*ERROR      /  2022-07-19 12:28:17,292        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : . 
+*ERROR      /  2022-07-19 12:28:57,071        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : yce@gmail.com. 
+*ERROR      /  2022-07-19 12:29:09,479        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : yce@gmail.com. 
+*ERROR      /  2022-07-19 12:30:20,143        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : yce@gmail.com. 
+*ERROR      /  2022-07-19 12:30:33,785        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : yce@gmail.com. 
+*INFO       /  2022-07-19 12:30:49,850        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 12:30:55,940        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 12:30:55,940        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for yce@gmail.com is Succesfully Created. 
+*INFO       /  2022-07-19 12:31:03,517        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:31:03,548        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:31:06,662        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:31:06,703        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:31:12,738        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:31:12,767        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:31:32,455        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:31:32,486        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:31:36,087        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:31:36,118        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:31:38,352        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:31:38,393        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:31:39,910        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:31:39,949        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:31:49,807        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/c4a8eefc-f853-455a-8e1b-4b276e228756. 
+*INFO       /  2022-07-19 12:31:49,841        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/c4a8eefc-f853-455a-8e1b-4b276e228756. 
+*INFO       /  2022-07-19 12:31:57,793        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-19 12:31:57,822        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-19 12:31:57,822        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : parshantsingh2161@gmail.com With Response Succesfully Update. 
+*INFO       /  2022-07-19 12:31:57,866        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:31:57,910        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:32:01,664        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:32:01,690        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:32:14,658        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:32:14,696        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:32:18,203        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:32:18,235        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:33:03,393        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:33:03,437        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:33:08,406        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:33:08,431        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:33:15,430        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:33:15,458        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:33:17,913        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:33:22,203        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:33:28,856        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:33:28,884        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:33:56,757        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:33:56,798        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:33:58,977        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:33:59,013        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:04,429        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:04,475        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:08,345        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:08,372        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:10,045        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:10,075        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:11,615        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:11,650        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:13,368        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:13,405        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:19,696        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:19,723        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:20,710        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:20,736        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:39,541        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:39,572        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:51,347        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:51,393        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:52,960        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:34:52,990        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:04,284        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:04,311        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:10,615        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:10,645        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:18,933        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:18,959        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:29,306        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:29,333        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:32,745        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:32,775        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:37,139        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:37,169        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:44,210        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 12:35:44,237        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 12:35:47,670        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:47,703        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:51,887        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:51,926        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:53,727        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 12:35:53,755        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 12:35:56,196        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:35:56,234        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:36:00,690        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 12:36:00,729        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 13:16:28,617        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 13:16:29,478        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 13:16:35,833        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 13:16:38,367        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 13:16:49,335        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 13:16:49,414        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 15:41:54,175        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 15:42:23,764        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 15:42:24,143        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*ERROR      /  2022-07-19 15:44:21,273        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : . 
+*INFO       /  2022-07-19 15:49:00,687        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 15:49:04,716        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 15:49:04,716        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : yashsinghgupta2161@gmail.com. 
+*INFO       /  2022-07-19 15:59:20,201        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 15:59:20,313        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:00:07,267        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:00:07,310        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:00:37,168        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/7a28363d-d6b5-4177-bea5-1a3d55f7a92b. 
+*INFO       /  2022-07-19 16:00:37,217        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/7a28363d-d6b5-4177-bea5-1a3d55f7a92b. 
+*INFO       /  2022-07-19 16:01:14,861        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-19 16:01:14,948        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-19 16:01:14,948        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : bhoomika2161@gmail.com With Response Succesfully Update. 
+*INFO       /  2022-07-19 16:01:15,056        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:01:15,096        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:06:02,188        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:06:02,405        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*ERROR      /  2022-07-19 16:07:10,834        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : parassetiagmail.com. 
+*INFO       /  2022-07-19 16:08:39,092        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 16:08:42,738        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 16:08:42,738        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : yashsinghgupta2161@gmail.com. 
+*INFO       /  2022-07-19 16:09:17,078        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 16:09:21,294        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 16:09:21,294        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for yashsinghgupta21@gmail.com is Succesfully Created. 
+*INFO       /  2022-07-19 16:09:22,535        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:09:22,617        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:10:22,129        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 16:10:22,218        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*ERROR      /  2022-07-19 16:10:30,084        / UserManagementApp.BussinessLayer.UpdateService     /  Improper Credentials for Email : ajaysinghgmail.com. 
+*INFO       /  2022-07-19 16:10:45,721        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-19 16:10:45,832        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-19 16:10:45,832        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : ajaysingh@gmail.com With Response Succesfully Update. 
+*INFO       /  2022-07-19 16:10:45,981        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:10:46,042        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:10:54,799        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 16:10:54,840        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe22a. 
+*INFO       /  2022-07-19 16:11:00,923        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe2. 
+*INFO       /  2022-07-19 16:11:00,978        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe2. 
+*ERROR      /  2022-07-19 16:11:04,642        / UserManagementApp.ExceptionHandler.CustomExceptionHandler /  Catching Error of Unknow Error. 
+*INFO       /  2022-07-19 16:11:43,462        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe2. 
+*INFO       /  2022-07-19 16:11:43,523        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/b1dad858-2bea-45d5-8598-59f9485fe2. 
+*ERROR      /  2022-07-19 16:12:35,328        / UserManagementApp.ExceptionHandler.CustomExceptionHandler /  Catching Error of Unknow Error. 
+*INFO       /  2022-07-19 16:12:45,621        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:12:45,711        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:12:53,854        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:12:56,155        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*ERROR      /  2022-07-19 16:14:35,112        / UserManagementApp.BussinessLayer.AuthenticationService /  Improper Credentials for Email : . 
+*ERROR      /  2022-07-19 16:14:43,265        / UserManagementApp.BussinessLayer.AuthenticationService /  Improper Credentials for Email : uhsad. 
+*INFO       /  2022-07-19 16:15:02,126        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 16:15:02,196        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 16:15:02,196        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for yash@gmail.com is NotAuthenticated. 
+*INFO       /  2022-07-19 16:15:29,624        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*ERROR      /  2022-07-19 16:15:37,960        / UserManagementApp.BussinessLayer.GetService        /  Token Not Present For Getting Users. 
+*ERROR      /  2022-07-19 16:15:41,810        / UserManagementApp.BussinessLayer.GetService        /  Token Not Present For Getting Users. 
+*ERROR      /  2022-07-19 16:15:44,449        / UserManagementApp.BussinessLayer.GetService        /  Token Not Present For Getting Users. 
+*ERROR      /  2022-07-19 16:15:47,104        / UserManagementApp.BussinessLayer.GetService        /  Token Not Present For Getting Users. 
+*ERROR      /  2022-07-19 16:15:47,884        / UserManagementApp.BussinessLayer.GetService        /  Token Not Present For Getting Users. 
+*ERROR      /  2022-07-19 16:16:50,352        / UserManagementApp.BussinessLayer.AuthenticationService /  Improper Credentials for Email : Yash2161@gmail.com. 
+*INFO       /  2022-07-19 16:18:52,488        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 16:18:53,800        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 16:18:53,801        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9072@gmail.com is P1U+io1OePjCp284gUiq+LpIwnLf1oVjZRTAv5o5vURSZHiLQf0hb3AulD5\/sAmBoffAuqTix8ErNJWo1TL1271Wfd1x1L+AiHTp9czkwoWWMQu2OpPZIY+iwn8cOmT\/w2T\/OEFnNGIWcqLl1d8WqQ==. 
+*INFO       /  2022-07-19 16:18:54,087        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:18:54,275        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:20:09,889        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 16:20:15,827        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 16:20:15,827        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh21651@gmail.com is Succesfully Created. 
+*INFO       /  2022-07-19 16:20:17,433        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:20:17,501        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:22:58,102        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:23:01,363        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:24:05,079        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 16:24:11,055        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 16:24:11,055        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for abhinavrajkumar2161@gmail.com is Succesfully Created. 
+*INFO       /  2022-07-19 16:24:12,366        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:24:12,416        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:27:10,832        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 16:27:17,625        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-19 16:27:17,625        / UserManagementApp.BussinessLayer.CreateService     /  User Not Created for Email : kshitiz2161@gmail.com. 
+*INFO       /  2022-07-19 16:33:29,922        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 16:33:31,242        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*ERROR      /  2022-07-19 17:05:44,965        / UserManagementApp.BussinessLayer.CreateService     /  Improper Credentials for Email : . 
+*INFO       /  2022-07-19 17:35:33,175        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 17:35:34,174        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 17:36:46,455        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 17:36:46,562        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 17:36:46,562        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for yashsinghgupta2161@gmail.com is \/u8iJBw3KcULOuTprkGajn1IiUzxO3OqtghcBaVcMP1XU0URQmLb\/PkC2ZUqVexbQxrf3z2CmQUa1PYZOOV5\/oYMnpXovhtNOaQ39TtbC8sHSCXBJMaKr7scOMSiTdHsyc9NiHoKuldW2lH8y8ypUg==. 
+*INFO       /  2022-07-19 17:36:46,648        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 17:36:49,392        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 17:36:49,570        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find. 
+*INFO       /  2022-07-19 17:36:49,662        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find. 
+*INFO       /  2022-07-19 17:44:07,333        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find. 
+*INFO       /  2022-07-19 17:44:07,442        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find. 
+*INFO       /  2022-07-19 17:48:02,208        / UserManagementApp.Helper.DatabaseConnection        /  Delete Request Started for http://localhost:52274/UserService.svc/delete/5000e44b-3ea5-43b8-82e7-ffd6c3785d8c. 
+*INFO       /  2022-07-19 17:49:07,418        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 17:49:15,884        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 17:49:16,008        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find. 
+*INFO       /  2022-07-19 17:49:16,080        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find. 
+*INFO       /  2022-07-19 17:50:19,107        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 17:50:23,389        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 17:50:23,510        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find. 
+*INFO       /  2022-07-19 17:50:23,566        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find. 
+*ERROR      /  2022-07-19 18:03:58,083        / UserManagementApp.BussinessLayer.AuthenticationService /  Improper Credentials for Email : . 
+*ERROR      /  2022-07-19 18:04:07,893        / UserManagementApp.BussinessLayer.AuthenticationService /  Improper Credentials for Email : harshpandey9079@gmail.com. 
+*INFO       /  2022-07-19 18:04:21,683        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 18:04:21,751        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 18:04:21,751        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9079@gmail.com is NotAuthenticated. 
+*INFO       /  2022-07-19 21:27:40,953        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 21:28:00,065        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 21:28:19,458        / UserManagementApp.BussinessLayer.AuthenticationService /  User Not Authenticated for Email : . 
+*INFO       /  2022-07-19 21:29:29,663        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 21:29:35,116        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 21:29:35,116        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Wrong Credentials Format. 
+*INFO       /  2022-07-19 21:30:27,253        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 21:30:29,622        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:35:16,976        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:35:30,343        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:36:05,843        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 22:36:08,590        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 22:36:08,590        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 22:36:39,891        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:36:43,443        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:37:42,683        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 22:37:44,404        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 22:37:44,419        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 22:37:59,433        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:38:01,643        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:46:13,126        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 22:46:15,409        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 22:46:15,409        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 22:49:05,742        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:49:14,583        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:50:07,784        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 22:50:09,992        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 22:50:09,992        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 22:53:41,482        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:53:44,503        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:53:52,990        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 22:53:55,273        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 22:53:55,273        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 22:55:58,618        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:56:00,840        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:56:14,759        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 22:56:17,291        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 22:56:17,291        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 22:57:29,273        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:57:31,430        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:57:39,722        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 22:57:41,834        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 22:57:41,834        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 22:58:14,740        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:58:16,915        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 22:58:24,175        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 22:58:26,114        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 22:58:26,114        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 23:05:13,911        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:05:16,164        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:05:24,073        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:05:26,939        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:05:26,940        / UserManagementApp.BussinessLayer.AuthenticationService /  User Not Authenticated for Email : . 
+*INFO       /  2022-07-19 23:05:59,119        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:06:01,003        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:06:01,003        / UserManagementApp.BussinessLayer.AuthenticationService /  User Not Authenticated for Email : . 
+*INFO       /  2022-07-19 23:07:19,930        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:07:22,289        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:07:22,289        / UserManagementApp.BussinessLayer.AuthenticationService /  User Not Authenticated for Email : . 
+*INFO       /  2022-07-19 23:08:30,012        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:08:33,611        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:08:33,611        / UserManagementApp.BussinessLayer.AuthenticationService /  User Not Authenticated for Email : . 
+*INFO       /  2022-07-19 23:08:48,796        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:08:50,826        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:08:50,826        / UserManagementApp.BussinessLayer.AuthenticationService /  User Not Authenticated for Email : . 
+*INFO       /  2022-07-19 23:09:58,085        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:10:00,470        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:10:00,470        / UserManagementApp.BussinessLayer.AuthenticationService /  User Not Authenticated for Email : . 
+*INFO       /  2022-07-19 23:15:33,684        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:15:35,911        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:15:35,911        / UserManagementApp.BussinessLayer.AuthenticationService /  User Not Authenticated for Email : . 
+*INFO       /  2022-07-19 23:16:06,767        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:16:08,809        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:16:08,809        / UserManagementApp.BussinessLayer.AuthenticationService /  User Not Authenticated for Email : . 
+*INFO       /  2022-07-19 23:17:20,354        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:17:22,819        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:17:22,819        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 23:18:00,456        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:18:04,998        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:18:10,861        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:18:12,339        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:18:12,340        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 23:19:07,428        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:19:10,521        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:19:18,607        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:19:21,059        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:19:21,060        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 23:19:33,851        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:19:35,616        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:19:35,616        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for skjASKJhaskjhAKSJHakhsjahsdkjhsahdsakhdkjsahdkjsahdkjhsakdjhsakjdhsahdksahdkjsahdkjsahdkjsahdkjsah is Email Size Limit 50. 
+*INFO       /  2022-07-19 23:20:21,747        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:20:34,251        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:20:38,988        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:20:40,784        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:20:40,784        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 23:20:54,894        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:20:57,383        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:20:57,383        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for sdLKadkjaskjdsakjhdksadksahkjdhsakjdhsakjhdkjsahdjsahdjsahdjsahdksahdkmsanjdskdiuwhakjxbhdkjawkhKDjhaiuwdhkjxiuqhwiuahd is Email Size Limit 50. 
+*INFO       /  2022-07-19 23:23:55,562        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:24:03,973        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:24:07,863        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:24:09,037        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:24:09,037        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 23:26:18,563        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:26:26,091        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:26:31,004        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:26:32,409        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:26:32,410        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 23:26:47,768        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:26:49,845        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:26:49,845        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for AKJHSKahsSKJakjsajsdksadfkfskhvnfokdshvckjsdhvfkjsvlihsakdfciuwgdakjledcgewjdsvhclkwaesugdkqajfcdhaeksdjvsadkf is Email Size Limit 50. 
+*INFO       /  2022-07-19 23:27:10,798        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:27:13,074        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:27:13,074        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey.gmail.com is Improper Email Format. 
+*INFO       /  2022-07-19 23:36:13,308        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:36:25,679        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:36:35,162        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:36:38,742        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:36:38,743        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 23:36:51,947        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:36:55,200        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:36:55,200        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for hp is Improper Email Format. 
+*INFO       /  2022-07-19 23:38:15,806        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:38:24,010        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:38:31,153        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:38:34,028        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:38:34,028        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 23:38:46,644        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:38:49,606        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:38:49,606        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harsh is Improper Email Format. 
+*INFO       /  2022-07-19 23:39:42,518        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:39:42,534        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:39:42,573        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:39:42,573        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:39:42,586        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:39:42,608        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:39:46,655        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:39:46,655        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harsh is Improper Email Format. 
+*INFO       /  2022-07-19 23:40:23,021        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:40:23,023        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harsh is Improper Email Format. 
+*INFO       /  2022-07-19 23:40:24,047        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:40:24,048        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 23:40:24,050        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:40:24,747        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harsh is Improper Email Format. 
+*INFO       /  2022-07-19 23:40:24,747        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:40:24,748        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:40:24,749        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:40:24,749        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harsh is Improper Email Format. 
+*INFO       /  2022-07-19 23:40:24,749        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harsh is Improper Email Format. 
+*INFO       /  2022-07-19 23:40:28,710        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:40:32,881        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:40:32,883        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harsh is Improper Email Format. 
+*INFO       /  2022-07-19 23:40:32,883        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:40:32,884        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harsh is Improper Email Format. 
+*INFO       /  2022-07-19 23:41:00,029        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:41:02,847        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:41:02,847        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9072@gmail.com is Null Password. 
+*INFO       /  2022-07-19 23:43:37,503        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:43:41,935        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:43:57,262        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:44:01,371        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:44:01,371        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-19 23:44:30,479        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:44:33,022        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:44:33,022        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9072@gmail.com is Null Password. 
+*INFO       /  2022-07-19 23:46:51,940        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:46:54,309        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:46:54,310        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9072@gmail.com is Improper Password Format. 
+*INFO       /  2022-07-19 23:47:23,181        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:47:23,312        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:47:23,313        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey907@gmail.com is NotAuthenticated. 
+*INFO       /  2022-07-19 23:49:30,752        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:49:33,869        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-19 23:49:58,605        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:49:58,637        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:49:58,637        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9072@gmail.com is P1U+io1OePjCp284gUiq+LpIwnLf1oVjZRTAv5o5vURSZHiLQf0hb3AulD5\/sAmBoffAuqTix8ErNJWo1TL1271Wfd1x1L+AiHTp9czkwoWWMQu2OpPZIY+iwn8cOmT\/w2T\/OEFnNGIWcqLl1d8WqQ==. 
+*INFO       /  2022-07-19 23:50:33,097        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:50:33,109        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:50:33,109        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey907@gmail.com is NotAuthenticated. 
+*INFO       /  2022-07-19 23:58:51,558        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:58:52,377        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:58:52,377        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey907@gmail.com is NotAuthenticated. 
+*INFO       /  2022-07-19 23:59:37,937        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:59:43,275        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-19 23:59:43,275        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 

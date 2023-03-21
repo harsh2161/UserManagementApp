@@ -1,0 +1,363 @@
+*INFO       /  2022-07-20 00:00:03,090        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 00:00:09,176        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 00:11:37,098        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 00:12:40,441        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 00:13:00,148        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 00:13:00,148        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 00:13:00,148        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-20 00:13:20,350        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 00:13:24,013        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 00:13:24,014        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9072gmail.com is Improper Email Format. 
+*INFO       /  2022-07-20 00:13:33,640        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 00:13:40,130        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 00:13:40,131        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9072@gmail.com is Null Password. 
+*INFO       /  2022-07-20 00:14:34,976        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 00:14:35,020        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 00:14:35,020        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9072@gmail.com is NotAuthenticated. 
+*INFO       /  2022-07-20 00:14:35,020        / UserManagementApp.BussinessLayer.AuthenticationService /  User Not Authenticated for Email : harshpandey9072@gmail.com. 
+*INFO       /  2022-07-20 00:14:39,411        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 00:15:21,124        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 00:15:45,471        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 00:15:55,090        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 00:18:33,177        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 00:19:51,666        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 00:19:55,537        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 00:22:52,466        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 00:22:52,736        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 00:22:52,736        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9072@gmail.com is P1U+io1OePjCp284gUiq+LpIwnLf1oVjZRTAv5o5vURSZHiLQf0hb3AulD5\/sAmBoffAuqTix8ErNJWo1TL1271Wfd1x1L+AiHTp9czkwoWWMQu2OpPZIY+iwn8cOmT\/jmIZrr52cjz6vYl4On3FGQ==. 
+*INFO       /  2022-07-20 00:22:52,736        / UserManagementApp.BussinessLayer.AuthenticationService /  User Not Authenticated for Email : harshpandey9072@gmail.com. 
+*INFO       /  2022-07-20 00:24:20,913        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 00:24:21,163        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 00:24:21,163        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9072@gmail.com is P1U+io1OePjCp284gUiq+LpIwnLf1oVjZRTAv5o5vURSZHiLQf0hb3AulD5\/sAmBoffAuqTix8ErNJWo1TL1271Wfd1x1L+AiHTp9czkwoWWMQu2OpPZIY+iwn8cOmT\/jmIZrr52cjz6vYl4On3FGQ==. 
+*INFO       /  2022-07-20 00:24:21,163        / UserManagementApp.BussinessLayer.AuthenticationService /  User Not Authenticated for Email : harshpandey9072@gmail.com. 
+*INFO       /  2022-07-20 00:24:46,570        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 00:25:04,169        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 00:26:38,347        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/c83874a3-aeb5-485c-97c3-225c2935da00. 
+*INFO       /  2022-07-20 00:26:40,938        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/c83874a3-aeb5-485c-97c3-225c2935da00. 
+*INFO       /  2022-07-20 00:27:10,360        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 00:27:10,401        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 00:27:10,401        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : anubhutisingh#2162@gmail.com With Response SuccesfullyUpdated. 
+*INFO       /  2022-07-20 00:27:21,098        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 00:27:21,152        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 00:27:21,152        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : anubhutisingh2162@gmail.com With Response SuccesfullyUpdated. 
+*INFO       /  2022-07-20 00:27:27,191        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 00:27:27,250        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 00:27:27,250        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : anubhutisingh2162@gmail.com With Response SuccesfullyUpdated. 
+*INFO       /  2022-07-20 00:27:47,792        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 00:27:47,837        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 00:27:47,837        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : anubhutisingh2162@gmail.com With Response SuccesfullyUpdated. 
+*INFO       /  2022-07-20 08:15:31,547        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 08:15:32,518        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 08:16:12,614        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 08:16:12,686        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 08:16:12,686        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9079@gmail.com is NotAuthenticated. 
+*INFO       /  2022-07-20 08:16:12,686        / UserManagementApp.BussinessLayer.AuthenticationService /  User Authenticated for Email : harshpandey9079@gmail.com. 
+*INFO       /  2022-07-20 08:16:12,774        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 08:16:25,566        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*ERROR      /  2022-07-20 08:16:36,460        / UserManagementApp.BussinessLayer.GetService        /  Token Not Present For Getting Users. 
+*ERROR      /  2022-07-20 08:16:39,485        / UserManagementApp.BussinessLayer.GetService        /  Token Not Present For Getting Users. 
+*INFO       /  2022-07-20 08:18:07,979        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 08:18:08,011        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 08:18:08,011        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey907@gmail.com is NotAuthenticated. 
+*INFO       /  2022-07-20 08:18:08,011        / UserManagementApp.BussinessLayer.AuthenticationService /  User Authenticated for Email : harshpandey907@gmail.com. 
+*INFO       /  2022-07-20 08:19:15,834        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 08:19:19,985        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 08:20:52,598        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 08:20:52,638        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 08:20:52,638        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey907@gmail.com is NotAuthenticated. 
+*INFO       /  2022-07-20 08:20:52,638        / UserManagementApp.BussinessLayer.AuthenticationService /  User Authenticated for Email : harshpandey907@gmail.com. 
+*INFO       /  2022-07-20 08:23:31,321        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 08:23:31,507        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 08:23:31,511        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9079@gmail.com is NotAuthenticated. 
+*INFO       /  2022-07-20 08:23:31,511        / UserManagementApp.BussinessLayer.AuthenticationService /  User Authenticated for Email : harshpandey9079@gmail.com. 
+*INFO       /  2022-07-20 08:24:46,385        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 08:24:46,441        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 08:24:46,441        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9072@gmail.com is P1U+io1OePjCp284gUiq+LpIwnLf1oVjZRTAv5o5vURSZHiLQf0hb3AulD5\/sAmBoffAuqTix8ErNJWo1TL1271Wfd1x1L+AiHTp9czkwoWWMQu2OpPZIY+iwn8cOmT\/jmIZrr52cjz6vYl4On3FGQ==. 
+*INFO       /  2022-07-20 08:24:46,441        / UserManagementApp.BussinessLayer.AuthenticationService /  User Authenticated for Email : harshpandey9072@gmail.com. 
+*INFO       /  2022-07-20 08:24:53,157        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 08:24:53,202        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 08:25:14,799        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 08:25:15,055        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 08:25:55,712        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 08:25:55,769        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 09:37:33,851        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 09:37:34,477        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 09:40:04,097        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 09:40:04,404        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 09:40:29,344        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:40:36,039        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:40:36,040        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-20 09:48:28,757        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 09:48:29,010        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 09:48:38,175        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:48:42,969        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:48:42,969        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-20 09:49:01,983        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:49:03,794        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:49:03,794        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-20 09:49:49,679        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:49:49,686        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:49:57,599        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:49:57,599        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-20 09:51:11,253        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 09:51:17,076        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 09:51:30,127        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:51:33,997        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:51:33,997        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-20 09:51:55,698        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:51:59,489        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:51:59,489        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh is Improper Email Format. 
+*INFO       /  2022-07-20 09:52:13,990        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:52:16,026        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:52:16,026        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gmail.com is Null Password. 
+*INFO       /  2022-07-20 09:54:15,071        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 09:54:15,322        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 09:54:23,536        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:54:26,290        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:54:26,290        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-20 09:54:42,167        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:54:43,823        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:54:43,823        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gmail.com is Null Password. 
+*INFO       /  2022-07-20 09:54:58,599        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:55:03,894        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 09:55:03,894        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gmail.com is Null UserName. 
+*INFO       /  2022-07-20 10:01:51,300        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:01:51,643        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:01:56,243        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:02:00,843        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:02:00,843        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for  is Null Email. 
+*INFO       /  2022-07-20 10:02:18,723        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:02:20,705        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:02:20,705        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gamil.com is Null UserName. 
+*INFO       /  2022-07-20 10:02:43,080        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:02:49,730        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:02:49,730        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gamil.com is UserName Prohibited Characters (< , \/ , > , \ , ;). 
+*INFO       /  2022-07-20 10:04:13,366        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:04:13,586        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:04:39,253        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:04:44,542        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:04:44,542        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gmail.com is Null UserName. 
+*INFO       /  2022-07-20 10:06:18,883        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:06:19,127        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:06:48,607        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:06:52,908        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:06:52,908        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gmail.com is Null UserName. 
+*INFO       /  2022-07-20 10:07:07,904        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:07:12,671        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:07:12,671        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gmail.com is UserName Prohibited Characters (< , \/ , > , \ , ;). 
+*INFO       /  2022-07-20 10:07:29,577        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:07:37,241        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:07:37,241        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gmail.com is UserName Prohibited Characters (< , \/ , > , \ , ;). 
+*INFO       /  2022-07-20 10:08:27,525        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:08:27,743        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:08:56,084        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:08:58,084        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:08:58,084        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gmail.com is Null UserName. 
+*INFO       /  2022-07-20 10:09:10,536        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:09:15,221        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:09:15,221        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gmail.com is UserName Prohibited Characters (< , \/ , > , \ , ;). 
+*INFO       /  2022-07-20 10:12:19,032        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:12:19,254        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:12:55,553        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:13:01,477        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:13:01,477        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@yahoo.com is Age Range 0 To 120. 
+*INFO       /  2022-07-20 10:16:37,156        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:16:37,396        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:17:01,996        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:17:04,107        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:17:04,107        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@yahoo.com is Age Range 0 To 120. 
+*INFO       /  2022-07-20 10:17:35,771        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:17:44,227        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:17:44,227        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@yahoo.com is Salary Must Be Greator Than 0. 
+*INFO       /  2022-07-20 10:21:50,699        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:21:51,381        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:22:13,775        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:22:26,180        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:22:26,180        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gmail.com is Null Description. 
+*INFO       /  2022-07-20 10:30:15,246        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:30:15,571        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:30:53,010        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:30:57,585        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:30:57,585        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@yahoo.com is Description Prohibited Characters (< , \/ , > , \ , ;). 
+*INFO       /  2022-07-20 10:31:08,491        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:31:12,728        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:31:12,728        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@yahoo.com is Date Time Improper Format. 
+*INFO       /  2022-07-20 10:33:07,213        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:33:07,428        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:33:53,363        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:33:55,349        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:33:55,349        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gmail.com is Description Prohibited Characters (< , \/ , > , \ , ;). 
+*INFO       /  2022-07-20 10:35:11,875        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:35:21,659        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:35:21,659        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gmail.com is Description Prohibited Characters (< , \/ , > , \ , ;). 
+*INFO       /  2022-07-20 10:35:53,936        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:35:54,206        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:36:30,591        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:36:32,613        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:36:32,613        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gmail.com is Description Prohibited Characters (< , \/ , > , \ , ;). 
+*INFO       /  2022-07-20 10:36:41,149        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:36:43,187        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:36:43,187        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gmail.com is Date Time Improper Format. 
+*INFO       /  2022-07-20 10:36:56,576        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:37:04,228        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:37:04,228        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gmail.com is Date Time Improper Format. 
+*INFO       /  2022-07-20 10:39:15,847        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:39:16,090        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:40:23,105        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:40:31,394        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:40:31,394        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harshpandey9072@gmail.com is Date Time Improper Format. 
+*INFO       /  2022-07-20 10:40:50,219        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:41:06,916        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:41:06,916        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harshpandey9072@gmail.com is This Email Already Exist. 
+*INFO       /  2022-07-20 10:42:09,653        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:42:09,864        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:43:01,064        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:43:03,512        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:43:03,512        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harshpandey9072@gmail.com is This Email Already Exist. 
+*INFO       /  2022-07-20 10:43:35,996        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:43:36,117        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:43:36,117        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harshpandey90711@gmail.com is SuccesfullyCreated. 
+*INFO       /  2022-07-20 10:45:34,354        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:45:34,591        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:46:16,035        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:46:16,115        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 10:46:16,115        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harshpandey92@gmail.com is SuccesfullyCreated. 
+*INFO       /  2022-07-20 10:46:19,860        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:46:19,892        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 10:46:30,229        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 10:46:30,270        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:00:11,839        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:00:12,056        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:00:19,768        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:00:19,800        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:00:34,074        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:00:34,121        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:00:34,121        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : abhinavrajkumar2161@gmail.com With Response SuccesfullyUpdated. 
+*INFO       /  2022-07-20 11:00:42,317        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/Dashboard. 
+*INFO       /  2022-07-20 11:00:44,749        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Failed for http://localhost:52274/UserService.svc/find/Dashboard. 
+*ERROR      /  2022-07-20 11:00:47,986        / UserManagementApp.ExceptionHandler.CustomExceptionHandler /  Catching Error of Unknow Error. 
+*INFO       /  2022-07-20 11:01:01,367        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:01:01,409        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:02:17,227        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:02:17,433        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:02:21,259        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:02:21,304        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:02:24,275        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:02:24,304        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:02:34,590        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:02:34,676        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:02:34,676        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : abhinavrajkumar2161@gmail.com With Response SuccesfullyUpdated. 
+*INFO       /  2022-07-20 11:02:37,961        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:02:37,993        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:02:59,278        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:02:59,334        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:03:00,876        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:03:00,930        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:03:03,080        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:03:03,112        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:03:08,133        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:03:10,077        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:03:10,078        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : abhinavrajkumar2161gmail.com With Response Improper Email Format. 
+*INFO       /  2022-07-20 11:03:20,942        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:03:57,734        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:04:04,125        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:04:04,125        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : abhinavrajkumar2161gmail.com With Response Improper Email Format. 
+*INFO       /  2022-07-20 11:06:33,256        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:06:33,563        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:06:37,078        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:06:37,120        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:06:50,822        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:06:55,633        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:06:55,633        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : abhinavrajkumar2161gmail.com With Response Improper Email Format. 
+*INFO       /  2022-07-20 11:09:21,939        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:09:24,910        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:09:24,910        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : abhinavrajkumar2161gmail.com With Response Improper Email Format. 
+*INFO       /  2022-07-20 11:10:11,291        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:10:11,497        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:10:15,679        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:10:15,711        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:10:25,348        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:10:27,765        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:10:27,765        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : abhinavrajkumar2161gmail.com With Response Improper Email Format. 
+*INFO       /  2022-07-20 11:11:08,969        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:11:15,566        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:11:15,567        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : abhinavrajkumar2161gmail.com With Response Improper Email Format. 
+*INFO       /  2022-07-20 11:12:25,071        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:12:25,328        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:12:29,674        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:12:29,730        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:12:38,204        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:12:40,135        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:12:40,135        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : abhinavrajkumar2161gmail.com With Response Improper Email Format. 
+*INFO       /  2022-07-20 11:12:55,617        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:12:55,696        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:12:55,696        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : abhinavrajkumar2161@gmail.com With Response SuccesfullyUpdated. 
+*INFO       /  2022-07-20 11:12:57,369        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:12:57,405        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:14:51,425        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:14:51,680        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:22:13,575        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:22:13,829        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:22:15,905        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:22:15,943        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:22:25,755        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:22:25,791        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:25:21,203        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:25:21,250        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:25:28,141        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:25:30,312        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:29:15,511        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:29:16,021        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:29:42,056        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 11:29:42,136        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 11:29:42,136        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for aushagrasharma@gmail.com is lQc47lrU37RSKPp+eff2tcohAZ5uT1k1++5o3LbD7aINBlo5JnGdFL\/DRgvD6tFRW8A\/hMKBwXdWyoDEMUAw517gVhRvtg+eJjeu0mTybTYpOJ1gkxBqkU6otL0jwKRV6cDfHMAlgd0VfDucz9zryw==. 
+*INFO       /  2022-07-20 11:29:42,136        / UserManagementApp.BussinessLayer.AuthenticationService /  User Authenticated for Email : aushagrasharma@gmail.com. 
+*INFO       /  2022-07-20 11:29:42,208        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:29:44,893        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:29:44,974        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find. 
+*INFO       /  2022-07-20 11:29:45,042        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find. 
+*INFO       /  2022-07-20 11:30:49,112        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 11:30:49,144        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-20 11:30:49,144        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9072@gmail.com is P1U+io1OePjCp284gUiq+LpIwnLf1oVjZRTAv5o5vURSZHiLQf0hb3AulD5\/sAmBoffAuqTix8ErNJWo1TL1271Wfd1x1L+AiHTp9czkwoWWMQu2OpPZIY+iwn8cOmT\/jmIZrr52cjz6vYl4On3FGQ==. 
+*INFO       /  2022-07-20 11:30:49,144        / UserManagementApp.BussinessLayer.AuthenticationService /  User Authenticated for Email : harshpandey9072@gmail.com. 
+*INFO       /  2022-07-20 11:30:49,208        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:30:49,255        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:30:54,467        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:30:54,504        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:30:59,359        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Started for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:30:59,429        / UserManagementApp.Helper.DatabaseConnection        /  Put Request Completed for http://localhost:52274/UserService.svc/update. 
+*INFO       /  2022-07-20 11:30:59,429        / UserManagementApp.BussinessLayer.UpdateService     /  Getting Reponse for updating User for Email : abhinavrajkumar2161@gmail.com With Response SuccesfullyUpdated. 
+*INFO       /  2022-07-20 11:30:59,516        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:30:59,567        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:31:03,037        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:31:03,076        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:31:08,145        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:31:08,185        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:31:09,787        / UserManagementApp.Helper.DatabaseConnection        /  Delete Request Started for http://localhost:52274/UserService.svc/delete/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:31:09,818        / UserManagementApp.Helper.DatabaseConnection        /  Delete Request Completed for http://localhost:52274/UserService.svc/delete/a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:31:09,818        / UserManagementApp.BussinessLayer.DeleteService     /  User Deleted for Id : a9877b36-3c86-4727-811a-683530acb857. 
+*INFO       /  2022-07-20 11:31:09,859        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:31:09,899        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:32:08,374        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 11:32:08,446        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-07-20 11:32:08,446        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for harsh@gamil.com is SuccesfullyCreated. 
+*INFO       /  2022-07-20 11:32:08,510        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:32:08,542        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:32:16,176        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:32:18,089        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:32:24,140        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:32:24,174        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:33:47,281        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:33:47,326        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:33:53,289        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:33:53,337        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:34:13,829        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:34:19,552        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:34:23,325        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:36:19,780        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:36:25,553        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:36:31,021        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:36:40,342        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:48:16,792        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:51:42,517        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-20 11:51:44,161        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 

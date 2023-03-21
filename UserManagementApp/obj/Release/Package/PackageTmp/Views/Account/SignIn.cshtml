@@ -1,0 +1,144 @@
+﻿@{
+    Layout = null;
+}
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"> 
+    @*~/css/owl.carousel.min.css*@  
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/Content/Css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/Content/Css/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Content/Css/Style.css">
+    <title>Sign In</title>
+    <script src="~/Content/JavaScript/jquery-1.10.2.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <ul class="nav-list">
+                <div class="companyLogo"><img src="~/Content/Images/leadSquaredLogo.jpg" alt="Leadsquared Logo" /></div>
+                <li>User Management System</li>
+            </ul>
+        </nav>
+    </header>
+    <div class="content">
+        <div class="container"> 
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="~/Content/Images/UserManagementImage.svg" alt="Image" class="img-fluid">
+                </div>
+                <div class="col-md-6 contents">
+                    <div class="row justify-content-center">
+                        <div class="col-md-8">
+                            <div class="mb-4">
+                                <h3 style="color: #6c63ff;">SignIn</h3>
+                            </div>
+                            <form>
+                                <div class="form-group first" id="LoginEmail">
+                                    <input type="email" class="form-control" id="username" placeholder="Email">
+                                </div>
+                                <br>
+                                <div class="form-group last mb-4" id="LoginPassword">
+                                    <input type="password" class="form-control" id="password" placeholder="Password">
+                                </div>
+                                <input type="button" value="SignIn" class="btn btn-block btn-primary" onclick="BtnClick()">
+                            </form>
+                            <div id="ErrorMessageSignIn" style="color:red; margin: 10px 10px 10px 10px" ></div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <script>
+        function BtnClick(e) {
+            var username = $("#username").val();
+            var password = $("#password").val();
+            var obj = {
+                UserEmail: username,
+                UserPassword: password
+            }
+            var url = $("#RedirectTo").val();
+            SubmitForm(obj, url)
+        }
+        
+        function SubmitForm(obj, url) {
+            $.ajax({
+                url: "/Account/CheckAuthentication",
+                method: "POST",
+                data: obj,
+               
+                success: function (data) {
+                    if (data.result == "Null Email") {
+                        $("#LoginPassword").css({ "border": "0px red solid" });
+                        $("#LoginEmail").css({ "border": "2px red solid" });
+                        $("#ErrorMessageSignIn").css("dispay", "block");
+                        $("#ErrorMessageSignIn").html("Email Can't Be Empty");
+                    }
+                    else if (data.result == "Email Size Limit 50") {
+                        $("#LoginPassword").css({ "border": "0px red solid" });
+                        $("#LoginEmail").css({ "border": "2px red solid" });
+                        $("#ErrorMessageSignIn").css("dispay", "block");
+                        $("#ErrorMessageSignIn").html("Email Size Limit 50");
+                    }
+                    else if (data.result == "Improper Email Format") {
+                        $("#LoginPassword").css({ "border": "0px red solid" });
+                        $("#LoginEmail").css({ "border": "2px red solid" });
+                        $("#ErrorMessageSignIn").css("dispay", "block");
+                        $("#ErrorMessageSignIn").html("Improper Email Format");
+                    }
+                    if (data.result == "Null Password") {
+                        $("#LoginPassword").css({ "border": "2px red solid" });
+                        $("#LoginEmail").css({ "border": "0px red solid" });
+                        $("#ErrorMessageSignIn").css("dispay", "block");
+                        $("#ErrorMessageSignIn").html("Password Can't Be Empty");
+                    }
+                    else if (data.result == "Password Size Limit 30") {
+                        $("#LoginPassword").css({ "border": "2px red solid" });
+                        $("#LoginEmail").css({ "border": "0px red solid" });
+                        $("#ErrorMessageSignIn").css("dispay", "block");
+                        $("#ErrorMessageSignIn").html("Password Size Limit 30");
+                    }
+                    else if (data.result == "Improper Password Format") {
+                        $("#LoginPassword").css({ "border": "2px red solid" });
+                        $("#LoginEmail").css({ "border": "0px red solid" });
+                        $("#ErrorMessageSignIn").css("dispay", "none");
+                        $("#ErrorMessageSignIn").html("Improper Password Format");
+                    }
+                    else if (data.result == "NotAuthenticated") {
+                        $("#LoginPassword").css({ "border": "0px red solid" });
+                        $("#LoginEmail").css({ "border": "0px red solid" });
+                        $("#ErrorMessageSignIn").css("dispay", "block");
+                        $("#ErrorMessageSignIn").html("Either Wrong Email Or Password");
+                    }
+                    else if (data.result == "Admin") {
+                        $("#LoginPassword").css({ "border": "0px red solid" });
+                        $("#LoginEmail").css({ "border": "0px red solid" });
+                        $("#ErrorMessageSignIn").css("dispay", "none");
+                        window.location = "/Home/Dashboard";
+                    }
+                    else if (data.result == "User") {
+                        $("#LoginPassword").css({ "border": "0px red solid" });
+                        $("#LoginEmail").css({ "border": "0px red solid" });
+                        $("#ErrorMessageSignIn").css("dispay", "none");
+                        window.location = "/Home/GetUser";
+                    }
+                },
+                error: function (error) {
+                    $("#LoginPassword").css({ "border": "0px red solid" });
+                    $("#LoginEmail").css({ "border": "0px red solid" });
+                    $("#ErrorMessageSignIn").css("dispay", "block");
+                    $("#ErrorMessageSignIn").html("Invalid Input");
+                }
+            })
+        }
+    </script>
+</body>
+</html>
+
+

@@ -1,0 +1,207 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/Content/Css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/Content/Css/bootstrap/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="~/Content/Css/Style.css">
+    <title>RetrieveAll</title>
+    <style>
+        .main-fotter div {
+            float: left;
+            clear: none;            
+        }
+    </style>
+</head>
+<body style="min-width:300px;">
+    <nav class="navbar fixed-top mb-5" style="min-width:300px;">
+        <ul class="nav-list">
+            <li class="companyLogo"><img src="~/Content/Images/leadSquaredLogo.jpg" alt="Leadsquared Logo" /></li>
+            <li>User Management System</li>
+        </ul>
+    </nav>
+    <form class="form-inline m-5" id="filterform">
+        <div class="body-content container p-5">
+            <div>
+                @Html.ActionLink("Create", "CreateUser")
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" id="mysearchText">
+                <input type="button" class="btn btn-outline-success my-2 my-sm-0" style="text-decoration:none;margin-left:10px;" id="filterbtn" value="Filter" />
+                <div class="modal" tabindex="-1" data-keyboard="false" data-backdrop="static" role="dialog" id="filtermodal" style="backdrop-filter:brightness(0.3)">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <label for="Age">Age:</label><br>
+                            <input name="UserAge" type="text" id="GetAge" value=""><br>
+                            <label for="Designation">User Role</label><br>
+                            <div class="col-md-6">
+                                <select id="GetDesignation">
+                                    <option id="GetDesignation" value="0">None</option>
+                                    <option id="GetDesignation" value="2">User</option>
+                                    <option id="GetDesignation" value="1">Admin</option>
+                                </select>
+                            </div>
+                            <label for="Salary">Salary</label><br>
+                            <input name="UserSalary" type="text" id="GetSalary" value=""><br><br>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" id="closefilterbutton">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>  
+                <select id="SortField">
+                    <option id="SortField" value="Email">UserEmail</option>
+                    <option id="SortField" value="UserName">UserName</option>
+                    <option id="SortField" value="Age">UserAge</option>
+                    <option id="SortField" value="Designation">UserRole</option>
+                    <option id="SortField" value="Salary">UserSalary</option>
+                </select>                           
+                <select id="SortOrder">
+                    <option id="SortOrder" value="0">Ascending</option>
+                    <option id="SortOrder" value="1">Descending</option>
+                </select>
+                <div class="btn btn-outline-success my-2 my-sm-0" onclick="BtnClick()">Submit</div>
+                <div class="btn btn-outline-success my-2 my-sm-0" onclick="SignOut()">SignOut</div>
+            </div>
+        </div>
+        <p id="NoDataFound" style="display:none; color:red">No Record Found</p>
+        <p id="UnableToConnect" style="display:none; color:red">Unable To Connect To Server</p>
+        <p id="PageSizeExced" style="display:none; color:red"></p>
+        <div id="usertable">
+
+        </div>
+        <br>
+        <br>
+
+        <footer display="box" class="fixed-bottom" style="background-color:#6c63ff">
+            <div class = "main-fotter">
+                <div style="color:white; margin: 10px 10px 10px 10px">
+                    Page Size
+                </div>
+                <div>
+                    <input name="PageSize" type="text" id="GetPageSize" value="7" style="margin: 10px 10px 10px 10px" onchange="BtnClick()">
+                </div>
+                <div style="color:white; margin: 10px 10px 10px 10px">
+                    Page Index
+                </div>
+                <div>
+                    <input name="PageIndex" type="text" id="GetPageIndex" value="0" style="margin: 10px 10px 10px 10px" onchange="BtnClick()">
+                </div>
+            </div>            
+        </footer>
+    </form>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="~/Content/JavaScript/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script>
+            $(document).ready(() => {
+                $("#filterbtn").click(() => {
+                    $("#filtermodal").modal('show');
+                });
+
+                $("#closefilterbutton").click(() => {
+                    $("#filtermodal").modal('hide');
+                });
+            })
+
+            window.addEventListener("load", BtnClick());
+        
+            function BtnClick(e) {
+                var GetAge = $("#GetAge").val();
+                var GetDesignation = $("#GetDesignation").val();
+                var GetSalary = $("#GetSalary").val();
+                var mysearchText = $("#mysearchText").val();
+                var size = $("#GetPageSize").val();
+                var index = $("#GetPageIndex").val();
+                var sortBy = $("#SortField").val();
+                var sortDirection=$("#SortOrder").val();
+
+                var obj = {
+                    SearchText: mysearchText,
+                    Filter: {
+                        UserAge: GetAge,
+                        UserRole: GetDesignation,
+                        UserSalary: GetSalary
+                    },
+                    SortBy: sortBy,
+                    SortDirection: sortDirection,
+                    PageIndex:index,
+                    PageSize: size                 
+                }
+                console.log(obj);
+                SubmitForm(obj)
+            }
+            function SubmitForm(obj) {
+                $.ajax({
+                    url: "/Home/RetrieveAll",
+                    method: "POST",
+                    data: obj,
+                    success: function (data) {
+                        if (data.result == "User Is Not Authorized") {
+                            window.location = "/Home/GetUser";
+                        }
+                        else if (data.result == "Token Is Null") {                            
+                            window.location = "/Account/SignIn";
+                        }
+                        else if (data.result == "Unable To Connect To Server") {
+                            $("#NoDataFound").css("display", "none");
+                            $("#UnableToConnect").css("display", "block");
+                            $("#PageSizeExced").css("display", "none");
+                            alert("Unable To Connect To Server Or Base Url Not Given in Config File");
+                        }
+                        else if (data.result == "Empty List") {
+                            $("#NoDataFound").css("display", "block");
+                            $("#UnableToConnect").css("display", "none");
+                            $("#PageSizeExced").css("display", "none");
+                            $("#usertable").html(data);
+                        }
+                        else if (data.result == "Not Proper Inputs Given") {
+                            $("#NoDataFound").css("display", "none");
+                            $("#UnableToConnect").css("display", "none");
+                            $("#PageSizeExced").css("display", "block");
+                            $("#usertable").html(data);
+                        }
+                        else if (data.result == "Page Index Should Not Less Than 0") {
+                            $("#PageSizeExced").css("display", "block");
+                            $("#PageSizeExced").html("Page Index Should Not Less Than 0");
+                            $("#usertable").html(data);
+                        }
+                        else if (data.result == "Page Size Should between 0 To 50") {
+                            $("#PageSizeExced").css("display", "block");
+                            $("#PageSizeExced").html("Page Size Should between 0 To 50");
+                            $("#usertable").html(data);
+                        }
+                        else {
+                            $("#PageSizeExced").css("display", "none");
+                            $("#NoDataFound").css("display", "none");
+                            $("#UnableToConnect").css("display", "none");
+                            $("#usertable").html(data);
+                        }                        
+                    },
+                    error: function (error) {
+                        window.location = "/Account/SignIn";
+                    }
+                })
+            }
+            function SignOut() {
+                $.ajax({
+                    url: "/Account/SignOut",
+                    method: "POST",
+                    success: function () {
+                        window.location = "/Account/SignIn";
+                    },
+                    error: function (error) {
+                        alert("Unknow Error : ", error);
+                    }
+                })
+            }
+    </script>
+</body>
+</html>

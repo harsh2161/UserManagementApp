@@ -1,0 +1,123 @@
+﻿@model UserManagementApp.Models.User
+@{
+    Layout = null;
+}
+
+<h2>Details</h2>
+
+<link rel="stylesheet" href="~/Content/Css/owl.carousel.min.css">
+<link rel="stylesheet" href="~/Content/Css/bootstrap/bootstrap.min.css">
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="~/Content/Css/Style.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="~/Content/JavaScript/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+
+<div>
+    <h4>User</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UserEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserPassword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserPassword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserAge)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserAge)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserRole)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserRole)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserDateOfBirth)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserDateOfBirth)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserCreationTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserCreationTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserLastModified)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserLastModified)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserSalary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserSalary)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserDescription)
+        </dd>
+    </dl>
+    <div class="form-group">
+        <div class="btn btn-outline-success my-2 my-sm-0">
+            <input type="button" value="SignOut" class="btn btn-default" onclick="BtnClickLogOut()" />            
+        </div>
+        @Html.ActionLink("Update", "Update", new { id = Model.UserID })
+    </div>
+</div>
+
+<script>
+    function BtnClickLogOut() {
+        $.ajax({
+            url: "/Account/SignOut",
+            method: "POST",
+            success: function () {
+                window.location = "/Account/SignIn";
+            },
+            error: function (error) {
+                alert("Unknow Error : " , error);
+            }
+        })
+    }
+</script>

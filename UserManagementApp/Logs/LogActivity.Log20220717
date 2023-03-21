@@ -1,0 +1,30 @@
+﻿*INFO       /  2022-07-17 22:45:08,707        / UserManagementApp.Controllers.AccountController    /  Started Sign In Process . 
+*INFO       /  2022-07-17 23:49:42,010        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-17 23:49:42,248        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-17 23:49:42,248        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for yashsinghgupta2161@gmail.com is \/u8iJBw3KcULOuTprkGajn1IiUzxO3OqtghcBaVcMP1XU0URQmLb\/PkC2ZUqVexbQxrf3z2CmQUa1PYZOOV5\/oYMnpXovhtNOaQ39TtbC8vbT0ky4eE57qWymBwzem62+q39vb7uSyH0TqFICXpdmg==. 
+*INFO       /  2022-07-17 23:49:45,309        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-17 23:49:50,305        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-17 23:49:50,373        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find. 
+*INFO       /  2022-07-17 23:49:50,437        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find. 
+*INFO       /  2022-07-17 23:50:27,702        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-17 23:50:30,545        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-17 23:50:30,670        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find. 
+*INFO       /  2022-07-17 23:50:30,717        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find. 
+*INFO       /  2022-07-17 23:51:00,786        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-17 23:51:00,833        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-07-17 23:51:00,833        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harshpandey9072@gmail.com is P1U+io1OePjCp284gUiq+LpIwnLf1oVjZRTAv5o5vURSZHiLQf0hb3AulD5\/sAmBoffAuqTix8ErNJWo1TL1271Wfd1x1L+AiHTp9czkwoWWMQu2OpPZIY+iwn8cOmT\/9ux1JfU2yXmCTiMoxETxtw==. 
+*INFO       /  2022-07-17 23:51:00,896        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-17 23:51:00,958        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-17 23:51:06,507        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-17 23:51:06,559        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-17 23:51:08,105        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/c83874a3-aeb5-485c-97c3-225c2935da00. 
+*INFO       /  2022-07-17 23:51:08,148        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/c83874a3-aeb5-485c-97c3-225c2935da00. 
+*INFO       /  2022-07-17 23:51:10,208        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-17 23:51:10,240        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-17 23:51:11,817        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Started for http://localhost:52274/UserService.svc/find/c83874a3-aeb5-485c-97c3-225c2935da00. 
+*INFO       /  2022-07-17 23:51:11,857        / UserManagementApp.Helper.DatabaseConnection        /  Get Request Completed for http://localhost:52274/UserService.svc/find/c83874a3-aeb5-485c-97c3-225c2935da00. 
+*INFO       /  2022-07-17 23:51:19,413        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-17 23:51:19,453        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-17 23:54:29,302        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-17 23:54:29,349        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/RetrieveAll. 
+*INFO       /  2022-07-17 23:57:44,259        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/RetrieveAll. 

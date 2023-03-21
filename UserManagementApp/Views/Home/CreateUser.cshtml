@@ -1,0 +1,287 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="~/Content/JavaScript/jquery-1.10.2.js"></script>
+
+    <title>Create User</title>
+</head>
+
+<body>
+
+    <div class="container my-4">
+        <h2 style="text-align: center;">Registration Form</h2>
+        <br><hr><br>
+
+        <form action="" class="row g-3">
+            <div class="row">
+                <div class="col-md-6">
+                    <label for="inputName" class="col-sm-2 col-form-label">Name</label>
+                    <input type="text" class="form-control" placeholder="name" aria-label="First name" id="UserNameCreate" maxlength="100">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <label class="col-sm-2 col-form-label">Age</label>
+                    <input type="number" class="form-control" id="UserAgeCreate" name="age" maxlength="3">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <label for="inputPassword" class="col-sm-3 col-form-label">Date Of Birth</label>
+                    <input type="date" class="form-control" id="UserDateOfBirthCreate">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <label class="col-sm-2 col-form-label">User Role</label>
+                    <select id="UserRole">
+                        <option id="UserRole" value="2">User</option>
+                        <option id="UserRole" value="1">Admin</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <label class="col-sm-2 col-form-label">Email</label>
+                    <input type="email" class="form-control" id="UserEmailCreate" placeholder="harsh@example.com">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <label for="inputPassword" class="col-sm-2 col-form-label">Password</label>
+                    <input type="password" class="form-control" id="UserPasswordCreate">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <label for="exampleFormControlTextarea1" class="form-label">Description</label>
+                    <textarea class="form-control" id="UserDescriptionCreate" rows="3"></textarea>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <label class="col-sm-2 col-form-label">Salary</label>
+                    <input type="number" class="form-control" id="UserSalaryCreate" name="Salary" maxlength="10" placeholder="0">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12" style="margin-top: 30px;">
+                    <button type="button" class="btn btn-primary" onclick="BtnClick()">Submit</button>
+                </div>
+            </div>
+
+            <div id="ErrorMessageCreateUser" style="color:red; margin: 10px 10px 10px 10px"></div>
+        </form>    
+    </div>
+
+    <hr>
+    <footer class="container">
+        <p class="float-end"><a href="#">Back to top</a></p>
+        <p>Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
+    </footer>
+
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+            crossorigin="anonymous"></script>
+
+    <script>
+        function BtnClick(e) {
+            var UserName = $("#UserNameCreate").val();
+            var UserAge = $("#UserAgeCreate").val();
+            var UserEmail = $("#UserEmailCreate").val();
+            var UserDateOfBirth = $("#UserDateOfBirthCreate").val();
+            var UserRole = $("#UserRole").val();
+            var UserPassword = $("#UserPasswordCreate").val();
+            var UserDescription = $("#UserDescriptionCreate").val();
+            var UserSalary = $("#UserSalaryCreate").val();
+            var UserRole = $("#UserRole").val();
+            var obj = {
+                UserName: UserName,
+                UserEmail: UserEmail,
+                UserPassword: UserPassword,
+                UserAge: UserAge,
+                UserName: UserName,
+                UserDescription: UserDescription,
+                UserSalary: UserSalary,                
+                UserRole: UserRole,
+                UserDateOfBirth: UserDateOfBirth
+            }
+            SubmitForm(obj)
+        }
+        function SubmitForm(obj) {
+            console.log(obj)
+            $.ajax({
+                url: "/Home/CreateData",
+                method: "POST",
+                data: obj,
+                success: function (data) {
+                    if (data.result == "Null Email") {
+                        $("#UserEmailCreate").css({ "border": "2px red solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("Email Can't Be Null");
+                    }
+                    else if (data.result == "Email Size Limit 50") {
+                        $("#UserEmailCreate").css({ "border": "2px red solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("Email Size Limit 50");
+                    }
+                    else if (data.result == "Improper Email Format") {
+                        $("#UserEmailCreate").css({ "border": "2px red solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("Improper Email Format");
+                    }
+                    else if (data.result == "Null Password") {
+                        $("#UserEmailCreate").css({ "border": "2px green solid" });
+                        $("#UserPasswordCreate").css({ "border": "2px red solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("Password Can't Be Null");
+                    }
+                    else if (data.result == "Password Size Limit 30") {
+                        $("#UserEmailCreate").css({ "border": "2px green solid" });
+                        $("#UserPasswordCreate").css({ "border": "2px red solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("Password Size Limit 30");
+                    }
+                    else if (data.result == "Improper Password Format") {
+                        $("#UserEmailCreate").css({ "border": "2px green solid" });
+                        $("#UserPasswordCreate").css({ "border": "2px red solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("Improper Password Format (Minimum 8 Length , atleast 1 Capital Letter ,atleast 1 Number, atleast 1 special character)");
+                    }
+                    else if (data.result == "Null UserName") {
+                        $("#UserEmailCreate").css({ "border": "2px green solid" });
+                        $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                        $("#UserNameCreate").css({ "border": "2px red solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("User Name Can't Be Null");
+                    }
+                    else if (data.result == "UserName Should Be Minimum 3 to 100 Max Length") {
+                        $("#UserEmailCreate").css({ "border": "2px green solid" });
+                        $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                        $("#UserNameCreate").css({ "border": "2px red solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("UserName Should Be Minimum 3 to 100 Max Length");
+                    }
+                    else if (data.result == "UserName Prohibited Characters (< , / , > , \" , ;)") {
+                        $("#UserEmailCreate").css({ "border": "2px green solid" });
+                        $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                        $("#UserNameCreate").css({ "border": "2px red solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("UserName Prohibited Characters (< , / , > , \" , ;)");
+                    }
+                    else if (data.result == "Age Range 0 To 120") {
+                        $("#UserEmailCreate").css({ "border": "2px green solid" });
+                        $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                        $("#UserNameCreate").css({ "border": "2px green solid" });
+                        $("#UserAgeCreate").css({ "border": "2px green solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("Age Range 0 To 120");
+                    }
+                    else if (data.result == "Salary Cant Be Negative") {
+                        $("#UserEmailCreate").css({ "border": "2px green solid" });
+                        $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                        $("#UserNameCreate").css({ "border": "2px green solid" });
+                        $("#UserAgeCreate").css({ "border": "2px green solid" });
+                        $("#UserSalaryCreate").css({ "border": "2px red solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("Salary Cant Be Negative");
+                    }
+                    else if (data.result == "Null Description") {
+                        $("#UserEmailCreate").css({ "border": "2px green solid" });
+                        $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                        $("#UserNameCreate").css({ "border": "2px green solid" });
+                        $("#UserAgeCreate").css({ "border": "2px green solid" });
+                        $("#UserSalaryCreate").css({ "border": "2px green solid" });
+                        $("#UserDescriptionCreate").css({ "border": "2px red solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("Description Name Can't Be Null");
+                    }
+                    else if (data.result == "Description Limit 1000 Words") {
+                        $("#UserEmailCreate").css({ "border": "2px green solid" });
+                        $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                        $("#UserNameCreate").css({ "border": "2px green solid" });
+                        $("#UserAgeCreate").css({ "border": "2px green solid" });
+                        $("#UserSalaryCreate").css({ "border": "2px green solid" });
+                        $("#UserDescriptionCreate").css({ "border": "2px red solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("Description Limit 1000 Words");
+                    }
+                    else if (data.result == "Description Prohibited Characters (< , / , > , \" , ;)") {
+                        $("#UserEmailCreate").css({ "border": "2px green solid" });
+                        $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                        $("#UserNameCreate").css({ "border": "2px green solid" });
+                        $("#UserAgeCreate").css({ "border": "2px green solid" });
+                        $("#UserSalaryCreate").css({ "border": "2px green solid" });
+                        $("#UserDescriptionCreate").css({ "border": "2px red solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("Description Prohibited Characters (< , \/ , > , \\ , ;)");
+                    }
+                    else if (data.result == "Date Time Improper Format") {
+                        $("#UserEmailCreate").css({ "border": "2px green solid" });
+                        $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                        $("#UserNameCreate").css({ "border": "2px green solid" });
+                        $("#UserAgeCreate").css({ "border": "2px green solid" });
+                        $("#UserSalaryCreate").css({ "border": "2px green solid" });
+                        $("#UserDescriptionCreate").css({ "border": "2px green solid" });
+                        $("#UserDateOfBirthCreate").css({ "border": "2px red solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("Date Time Improper Format");
+                    }
+                    else if (data.result == "DateOfBirth Should be Less Than Today") {
+                        $("#UserEmailCreate").css({ "border": "2px green solid" });
+                        $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                        $("#UserNameCreate").css({ "border": "2px green solid" });
+                        $("#UserAgeCreate").css({ "border": "2px green solid" });
+                        $("#UserSalaryCreate").css({ "border": "2px green solid" });
+                        $("#UserDescriptionCreate").css({ "border": "2px green solid" });
+                        $("#UserDateOfBirthCreate").css({ "border": "2px red solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("DateOfBirth Should be Less Than Today");
+                    }
+                    else if (data.result == "This Email Already Exist") {
+                        $("#UserEmailCreate").css({ "border": "2px green solid" });
+                        $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                        $("#UserNameCreate").css({ "border": "2px green solid" });
+                        $("#UserAgeCreate").css({ "border": "2px green solid" });
+                        $("#UserSalaryCreate").css({ "border": "2px green solid" });
+                        $("#UserDescriptionCreate").css({ "border": "2px green solid" });
+                        $("#UserDateOfBirthCreate").css({ "border": "2px green solid" });
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("This Email Already Exist");
+                    }
+                    else if (data.result == "SuccesfullyCreated") {
+                        window.location = "Dashboard";
+                    }
+                    else {
+                        $("#ErrorMessageCreateUser").css("dispay", "block");
+                        $("#ErrorMessageCreateUser").html("Improper Inputs");
+                    }
+                },
+                error: function (error) {
+                    $("#ErrorMessageCreateUser").css("dispay", "block");
+                    $("#ErrorMessageCreateUser").html("Improper Inputs");
+                }
+            })
+        }
+    </script>    
+
+</body>
+
+</html>

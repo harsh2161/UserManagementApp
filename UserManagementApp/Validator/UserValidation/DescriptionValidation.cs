@@ -1,0 +1,26 @@
+﻿using UserManagementApp.ExceptionHandler;
+
+namespace UserManagementApp.Validator.UserValidation
+{
+    public static class DescriptionValidation
+    {
+        public static bool IsDescriptionValid(string userDescription)
+        {
+            if (userDescription == null || userDescription == "")
+            {
+                throw new ValidationException("Null Description");
+            }
+
+            if (userDescription.Length > 1000)
+            {
+                throw new ValidationException("Description Limit 1000 Words");
+            }
+
+            if (userDescription.Contains("<") || userDescription.Contains("/") || userDescription.Contains(">") || userDescription.Contains("\"") || userDescription.Contains(";"))
+            {
+                throw new ValidationException("Description Prohibited Characters (< , / , > , \" , ;)");
+            }
+            return true;
+        }
+    }
+}

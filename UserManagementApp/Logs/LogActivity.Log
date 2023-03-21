@@ -1,0 +1,45 @@
+*INFO       /  2022-09-10 07:52:12,165        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-09-10 07:52:14,081        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-09-10 07:52:14,082        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harsh@gamil.com is owMZ9K69I8TgMDcxkUW0RizlyuMgVVGDeOAaOA4j1KeQYyleO7c4X62O1u7YkKfMpnGg8R72Vk8rilHnduwujutbb1JrmyBg1jN9qdIN30IVpRa78bSz8St4Wy7p+Ix+. 
+*INFO       /  2022-09-10 07:52:14,082        / UserManagementApp.BussinessLayer.AuthenticationService /  User Authenticated for Email : harsh@gamil.com. 
+*INFO       /  2022-09-10 07:52:14,106        / UserManagementApp.Helper.TokenService              /  Returning Decrypted Token into harsh@gamil.com,Admin,Harsh@2161,2022-09-12. 
+*INFO       /  2022-09-10 07:52:27,397        / UserManagementApp.Helper.TokenService              /  Returning Decrypted Token into harsh@gamil.com,Admin,Harsh@2161,2022-09-12. 
+*INFO       /  2022-09-10 07:52:27,399        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/find/all. 
+*INFO       /  2022-09-10 07:52:27,533        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/find/all. 
+*INFO       /  2022-09-10 07:53:15,917        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-09-10 07:53:15,950        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-09-10 07:53:15,950        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for khushijain@gmail.com is azWFRgc5InHRT12NC0qI3RNbxH4gtAyAC28z5w4+CiZUOxbt7WMC0DNt0mHB48aYWy0yDINLPyvty817nBIf7Kw83d+fMz\/Jm0xAAN+ABqgCzarXJqTGxs7nyJJ2E9rUWAafeT0ojtUlSNtzzrJs3w==. 
+*INFO       /  2022-09-10 07:53:15,950        / UserManagementApp.BussinessLayer.AuthenticationService /  User Authenticated for Email : khushijain@gmail.com. 
+*INFO       /  2022-09-10 07:53:15,965        / UserManagementApp.Helper.TokenService              /  Returning Decrypted Token into khushijain@gmail.com,User,Khushi@2161,2022-09-12. 
+*INFO       /  2022-09-10 07:53:16,013        / UserManagementApp.Helper.TokenService              /  Returning Decrypted Token into khushijain@gmail.com,User,Khushi@2161,2022-09-12. 
+*INFO       /  2022-09-10 07:53:16,013        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/find/user. 
+*INFO       /  2022-09-10 07:53:16,077        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/find/user. 
+*INFO       /  2022-09-10 07:56:37,391        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-09-10 07:56:37,442        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/authenticate. 
+*INFO       /  2022-09-10 07:56:37,442        / UserManagementApp.BussinessLayer.AuthenticationService /  Getting Response for harsh@gamil.com is owMZ9K69I8TgMDcxkUW0RizlyuMgVVGDeOAaOA4j1KeQYyleO7c4X62O1u7YkKfMpnGg8R72Vk8rilHnduwujutbb1JrmyBg1jN9qdIN30IVpRa78bSz8St4Wy7p+Ix+. 
+*INFO       /  2022-09-10 07:56:37,442        / UserManagementApp.BussinessLayer.AuthenticationService /  User Authenticated for Email : harsh@gamil.com. 
+*INFO       /  2022-09-10 07:56:37,456        / UserManagementApp.Helper.TokenService              /  Returning Decrypted Token into harsh@gamil.com,Admin,Harsh@2161,2022-09-12. 
+*INFO       /  2022-09-10 07:56:37,757        / UserManagementApp.Helper.TokenService              /  Returning Decrypted Token into harsh@gamil.com,Admin,Harsh@2161,2022-09-12. 
+*INFO       /  2022-09-10 07:56:37,757        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/find/all. 
+*INFO       /  2022-09-10 07:56:37,851        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/find/all. 
+*INFO       /  2022-09-10 07:57:39,296        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-09-10 07:57:39,362        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/create. 
+*INFO       /  2022-09-10 07:57:39,363        / UserManagementApp.BussinessLayer.CreateService     /  Getting Response for hp1harsh@gmail.com is SuccesfullyCreated. 
+*INFO       /  2022-09-10 07:57:39,733        / UserManagementApp.Helper.TokenService              /  Returning Decrypted Token into harsh@gamil.com,Admin,Harsh@2161,2022-09-12. 
+*INFO       /  2022-09-10 07:57:39,733        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/find/all. 
+*INFO       /  2022-09-10 07:57:39,801        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/find/all. 
+*INFO       /  2022-09-10 07:57:44,267        / UserManagementApp.Helper.TokenService              /  Returning Decrypted Token into harsh@gamil.com,Admin,Harsh@2161,2022-09-12. 
+*INFO       /  2022-09-10 07:57:44,267        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/find/all. 
+*INFO       /  2022-09-10 07:57:44,326        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/find/all. 
+*INFO       /  2022-09-10 07:57:53,922        / UserManagementApp.Helper.TokenService              /  Returning Decrypted Token into harsh@gamil.com,Admin,Harsh@2161,2022-09-12. 
+*INFO       /  2022-09-10 07:57:53,922        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/find/all. 
+*INFO       /  2022-09-10 07:57:53,974        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/find/all. 
+*INFO       /  2022-09-10 07:58:01,520        / UserManagementApp.Helper.TokenService              /  Returning Decrypted Token into harsh@gamil.com,Admin,Harsh@2161,2022-09-12. 
+*INFO       /  2022-09-10 07:58:01,520        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/find/all. 
+*INFO       /  2022-09-10 07:58:01,566        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/find/all. 
+*INFO       /  2022-09-10 07:58:06,840        / UserManagementApp.Helper.TokenService              /  Returning Decrypted Token into harsh@gamil.com,Admin,Harsh@2161,2022-09-12. 
+*INFO       /  2022-09-10 07:58:06,840        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/find/all. 
+*INFO       /  2022-09-10 07:58:06,891        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/find/all. 
+*INFO       /  2022-09-10 07:58:17,467        / UserManagementApp.Helper.TokenService              /  Returning Decrypted Token into harsh@gamil.com,Admin,Harsh@2161,2022-09-12. 
+*INFO       /  2022-09-10 07:58:17,467        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Started for http://localhost:52274/UserService.svc/find/33d48238-c4d8-43f3-bc21-eaaf41414e81. 
+*INFO       /  2022-09-10 07:58:17,517        / UserManagementApp.Helper.DatabaseConnection        /  Post Request Completed for http://localhost:52274/UserService.svc/find/33d48238-c4d8-43f3-bc21-eaaf41414e81. 

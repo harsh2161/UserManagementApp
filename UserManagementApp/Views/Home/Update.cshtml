@@ -1,0 +1,255 @@
+﻿@model UserManagementApp.Models.User
+
+@{
+    ViewBag.Title = "Update";
+}
+
+<h2>Update</h2>
+
+<form id="getUserData">
+       
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        @Html.HiddenFor(m => m.UserID)
+        @Html.HiddenFor(m => m.UserPassword)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserEmail, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.UserEmail, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.UserEmail, "", new { @id= "UserEmailCreate", @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.UserName, "", new { @id = "UserNameCreate", @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserAge, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.UserAge, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.UserAge, "", new { @id = "UserAgeCreate", @class = "text-danger" })
+            </div>
+        </div>
+
+        @Html.HiddenFor(model => model.UserID)
+
+        <div class="form-group">
+            @Html.DropDownListFor(model => model.UserRole, new List<SelectListItem>
+                        {
+                           new SelectListItem {Text = "Admin", Value = "1" },
+                           new SelectListItem {Text = "User", Value = "2" }
+                        }, "User")
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserDateOfBirth, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.UserDateOfBirth, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.UserDateOfBirth, "", new { @id = "UserDateOfBirthCreate", @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserSalary, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.UserSalary, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.UserSalary, "", new { @id = "UserSalaryCreate", @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserDescription, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.UserDescription, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.UserDescription, "", new { @id = "UserDescriptionCreate", @class = "text-danger" })
+            </div>
+        </div>
+
+        @Html.HiddenFor(model => model.UserCreationTime)
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="button" value="Save Changes" class="btn btn-default" onclick="BtnClick()" />
+            </div>
+        </div>
+                
+    </div>
+    <div id="ErrorMessageUpdateUser" style="color:red; margin: 10px 10px 10px 10px"></div>
+</form>
+
+<script>
+    function BtnClick(e) {
+        var UserModel = $("#getUserData").serialize();
+        SubmitForm(UserModel)
+    }
+    function SubmitForm(obj) {
+        console.log(obj)
+        $.ajax({
+            url: "/Home/UpdateUser",
+            method: "POST",
+            data: obj,
+            success: function (data) {                
+                if (data.result == "Null Email") {
+                    $("#UserEmailCreate").css({ "border": "2px red solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("Email Can't Be Null");
+                }
+                else if (data.result == "Email Size Limit 50") {
+                    $("#UserEmailCreate").css({ "border": "2px red solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("Email Size Limit 50");
+                }
+                else if (data.result == "Improper Email Format") {
+                    $("#UserEmailCreate").css({ "border": "2px red solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("Improper Email Format");
+                }
+                else if (data.result == "Null Password") {
+                    $("#UserEmailCreate").css({ "border": "2px green solid" });
+                    $("#UserPasswordCreate").css({ "border": "2px red solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("Password Can't Be Null");
+                }
+                else if (data.result == "Password Size Limit 30") {
+                    $("#UserEmailCreate").css({ "border": "2px green solid" });
+                    $("#UserPasswordCreate").css({ "border": "2px red solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("Password Size Limit 30");
+                }
+                else if (data.result == "Improper Password Format") {
+                    $("#UserEmailCreate").css({ "border": "2px green solid" });
+                    $("#UserPasswordCreate").css({ "border": "2px red solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("Improper Password Format (Minimum 8 Length , atleast 1 Capital Letter ,atleast 1 Number, atleast 1 special character)");
+                }
+                else if (data.result == "Null UserName") {
+                    $("#UserEmailCreate").css({ "border": "2px green solid" });
+                    $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                    $("#UserNameCreate").css({ "border": "2px red solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("User Name Can't Be Null");
+                }
+                else if (data.result == "UserName Should Be Minimum 3 to 100 Max Length") {
+                    $("#UserEmailCreate").css({ "border": "2px green solid" });
+                    $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                    $("#UserNameCreate").css({ "border": "2px red solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("UserName Should Be Minimum 3 to 100 Max Length");
+                }
+                else if (data.result == "UserName Prohibited Characters (< , / , > , \" , ;)") {
+                    $("#UserEmailCreate").css({ "border": "2px green solid" });
+                    $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                    $("#UserNameCreate").css({ "border": "2px red solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("UserName Prohibited Characters (< , / , > , \" , ;)");
+                }
+                else if (data.result == "Age Range 0 To 120") {
+                    $("#UserEmailCreate").css({ "border": "2px green solid" });
+                    $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                    $("#UserNameCreate").css({ "border": "2px green solid" });
+                    $("#UserAgeCreate").css({ "border": "2px green solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("Age Range 0 To 120");
+                }
+                else if (data.result == "Salary Cant Be Negative") {
+                    $("#UserEmailCreate").css({ "border": "2px green solid" });
+                    $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                    $("#UserNameCreate").css({ "border": "2px green solid" });
+                    $("#UserAgeCreate").css({ "border": "2px green solid" });
+                    $("#UserSalaryCreate").css({ "border": "2px red solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("Salary Cant Be Negative");
+                }
+                else if (data.result == "Null Description") {
+                    $("#UserEmailCreate").css({ "border": "2px green solid" });
+                    $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                    $("#UserNameCreate").css({ "border": "2px green solid" });
+                    $("#UserAgeCreate").css({ "border": "2px green solid" });
+                    $("#UserSalaryCreate").css({ "border": "2px green solid" });
+                    $("#UserDescriptionCreate").css({ "border": "2px red solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("Description Name Can't Be Null");
+                }
+                else if (data.result == "Description Limit 1000 Words") {
+                    $("#UserEmailCreate").css({ "border": "2px green solid" });
+                    $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                    $("#UserNameCreate").css({ "border": "2px green solid" });
+                    $("#UserAgeCreate").css({ "border": "2px green solid" });
+                    $("#UserSalaryCreate").css({ "border": "2px green solid" });
+                    $("#UserDescriptionCreate").css({ "border": "2px red solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("Description Limit 1000 Words");
+                }
+                else if (data.result == "Description Prohibited Characters (< , / , > , \" , ;)") {
+                    $("#UserEmailCreate").css({ "border": "2px green solid" });
+                    $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                    $("#UserNameCreate").css({ "border": "2px green solid" });
+                    $("#UserAgeCreate").css({ "border": "2px green solid" });
+                    $("#UserSalaryCreate").css({ "border": "2px green solid" });
+                    $("#UserDescriptionCreate").css({ "border": "2px red solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("Description Prohibited Characters (< , \\/ , > , \\ , ;)");
+                }
+                else if (data.result == "Date Time Improper Format") {
+                    $("#UserEmailCreate").css({ "border": "2px green solid" });
+                    $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                    $("#UserNameCreate").css({ "border": "2px green solid" });
+                    $("#UserAgeCreate").css({ "border": "2px green solid" });
+                    $("#UserSalaryCreate").css({ "border": "2px green solid" });
+                    $("#UserDescriptionCreate").css({ "border": "2px green solid" });
+                    $("#UserDateOfBirthCreate").css({ "border": "2px red solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("Date Time Improper Format");
+                }
+                else if (data.result == "DateOfBirth Should be Less Than Today") {
+                    $("#UserEmailCreate").css({ "border": "2px green solid" });
+                    $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                    $("#UserNameCreate").css({ "border": "2px green solid" });
+                    $("#UserAgeCreate").css({ "border": "2px green solid" });
+                    $("#UserSalaryCreate").css({ "border": "2px green solid" });
+                    $("#UserDescriptionCreate").css({ "border": "2px green solid" });
+                    $("#UserDateOfBirthCreate").css({ "border": "2px red solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("DateOfBirth Should be Less Than Today");
+                }
+                else if (data.result == "This Email Already Exist") {
+                    $("#UserEmailCreate").css({ "border": "2px green solid" });
+                    $("#UserPasswordCreate").css({ "border": "2px green solid" });
+                    $("#UserNameCreate").css({ "border": "2px green solid" });
+                    $("#UserAgeCreate").css({ "border": "2px green solid" });
+                    $("#UserSalaryCreate").css({ "border": "2px green solid" });
+                    $("#UserDescriptionCreate").css({ "border": "2px green solid" });
+                    $("#UserDateOfBirthCreate").css({ "border": "2px green solid" });
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("This Email Already Exist");
+                }
+                else if (data.result == "SuccesfullyUpdated") {
+                    window.location = "/Home/Dashboard";
+                }
+                else if (data.result == "UnAuthorized To Update Email & Role") {
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("UnAuthorized To Update Email & Role");
+                }
+                else if (data.result == "SuccesfullyUpdatedYourself") {
+                    window.location = "/Home/GetUser";
+                }
+                else {
+                    $("#ErrorMessageUpdateUser").css("dispay", "block");
+                    $("#ErrorMessageUpdateUser").html("Field should be in proper format");
+                }
+            },
+            error: function (error) {
+                $("#ErrorMessageCreateUser").css("dispay", "block");
+                $("#ErrorMessageCreateUser").html("Problem From Server Side");
+            }
+        })
+    }
+</script>
